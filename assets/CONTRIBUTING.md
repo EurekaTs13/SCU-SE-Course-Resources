@@ -34,23 +34,31 @@
 
 
 
+进入本仓库首页，点击右上角的 **Fork** 按钮，确认 Fork，稍等片刻，你的账号下就有了一个同名的仓库副本，之后你会看到仓库名下方显示：`forked from YourRepo/SCU-SE-Course-Resources`
+
+![step1](./image/step1.gif)
 
 
 
+![Step2](./image/step2.png)
 
+然后就可以对 Fork 的仓库做各种改动，修改完成后，点击 `Commit` 按钮。
 
+本例为修改 `占位符.txt` 文件
 
+![step3-1](./image/step3-1.gif)
 
+本例为上传文件
 
+![step3-2](./image/step3-2.gif)
 
+假如您对 Fork 的仓库提交了2 次 `Commit`，`This branch is 18 commits ahead of Gother-GZ……`表示当前分支比源仓库领先 `2` 个提交。
 
+![step4](./image/step4.png)
 
+回到仓库首页，点击状态条右侧的`Contribute` 按钮，再点击`Open pull request` 按钮，即可创建 PR。
 
-
-
-
-
-
+![step5](./image/step5.gif)
 
 
 
@@ -235,11 +243,7 @@ Fork → Clone → Add Files → Commit → Push → Pull Request → Review →
 ##### 1️⃣ Fork 本仓库 🍴
 
 1. 登录你的 GitHub 账号（如果还没有，请先去 [GitHub](https://github.com) 注册）
-2. 进入 [本仓库首页](https://github.com/YourRepo/SCU-SE-Course-Resources)
-3. 点击右上角的 **Fork** 按钮
-4. 确认 Fork，稍等片刻，你的账号下就有了一个同名的仓库副本 ✨
-
-之后你会看到仓库名下方显示：`forked from YourRepo/SCU-SE-Course-Resources`
+2. 
 
 ---
 
