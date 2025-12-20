@@ -76,8 +76,7 @@ SCU-SE-Course-Resources/
 
 为了帮助大家更好地参与贡献，我们整理了详细的指南：
 
--   📘 **[贡献指南 (Contributing Guide)](./assets/CONTRIBUTING.md)**: 关于 Fork、PR 流程、Git 规范及注意事项。
--   🏷️ **[文件命名规范 (Naming Convention)](./assets/NAMING_CONVENTION.md)**: 上传文件前请务必阅读，良好的命名是工程质量的第一步。
+-   📘 **[贡献指南 (Contributing Guide)](./assets/CONTRIBUTING.md)**: 关于 Fork、PR 流程、**文件命名规范** 及 Git 注意事项。
 
 **简要 Checklist**:
 1.  **Commit Message**: 请语义化你的提交，例如 `feat: add OS 2024 final exam`.
